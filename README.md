@@ -3,7 +3,7 @@
 # Contents
 ### Exposed Services
 ### Exploitation
-### Vulnerabilty Summary
+### Vulnerability Summary
 
 **nmap -A -v -T4 -Pn 192.168.1.110** was run to give the following results.
 
