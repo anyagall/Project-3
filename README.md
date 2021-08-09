@@ -1,4 +1,4 @@
-# Project-3
+# PROJECT 3
 
 ## Contents
 ### - Exposed Services
